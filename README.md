@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mand3fr0
 - 👀 I’m interested in frontend dev, especially in js 
-- 🌱 I’m currently learning frontend dev
+- 🌱 I’m always learning frontend dev
 - 💞️ I’m looking to collaborate on tutorial channels on YouTube
 - 📫 How to reach me would be via email @ first. programmingmatters7@gmail.com
 
